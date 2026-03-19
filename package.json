@@ -1,0 +1,24 @@
+{
+  "name": "browser-plug-in",
+  "version": "1.0.0",
+  "description": "Browser extension for exporting ChatGPT answers with formulas to Word.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "smoke-test": "node scripts/smoke-test.mjs"
+  },
+  "keywords": [
+    "chrome-extension",
+    "chatgpt",
+    "word",
+    "docx"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hungknguyen/docx-math-converter": "^1.1.4",
+    "docx": "^9.6.1",
+    "esbuild": "^0.27.4"
+  }
+}
