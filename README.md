@@ -1,7 +1,7 @@
 # ChatGPT Word Exporter
 
 这是一个 Chrome/Edge 插件原型，用来把 ChatGPT 网页里的回答导出成 `.docx`，并尽量保留公式为 Word 可识别的数学对象。
-
+（可以参考“下载插件.docx”操作即可）
 ## 当前能力
 
 - 导出当前页面中最近一条 ChatGPT 回答
