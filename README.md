@@ -1,7 +1,6 @@
 # ChatGPT Word Exporter
 
-<<<<<<< HEAD
-这是一个 Chrome/Edge 插件原型，用来把 ChatGPT 网页里的回答导出成 `.docx`，并尽量保留公式为 Word 可识别的数学对象。
+这是一个 Chrome/Edge 插件原型，用来把 ChatGPT 或ChatGPT镜像 网页里的回答导出成 `.docx`，并尽量保留公式为 Word 可识别的数学对象。
 （可以参考“下载插件.docx”操作即可）
 =======
 这是一个 Chrome/Edge 插件原型，用来把 ChatGPT 网页或同界面镜像站里的回答导出成 `.docx`，并尽量保留公式为 Word 可识别的数学对象。
